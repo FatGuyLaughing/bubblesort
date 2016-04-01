@@ -1,0 +1,4 @@
+name = Bubble Sort
+description = Visually represents a bubble sort algorithm with administration.
+core = 7.x
+package = Grove
